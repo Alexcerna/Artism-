@@ -5,4 +5,11 @@ This is the Artism sample application for
 
 by [Rene Cerna](http://ReneCerna.com)
 
-susan is gay
+command save
+
+git add .
+git status
+
+git commit -am "notes"
+git  status
+git push
