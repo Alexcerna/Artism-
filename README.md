@@ -13,4 +13,3 @@ git status
 git commit -am "notes"
 git  status
 git pushehfksehfkse
-susan is gay
