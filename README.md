@@ -12,4 +12,4 @@ git status
 
 git commit -am "notes"
 git  status
-git push
+git pushehfksehfkse
