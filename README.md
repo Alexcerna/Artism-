@@ -1,4 +1,4 @@
-# Artism sample application
+# Susan is gay!
 
 This is the Artism sample application for
 [*One Month Rails*] (http://onemonthrails.com)
