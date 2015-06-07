@@ -1,4 +1,4 @@
-# This is a sample text
+# Artism Sample App!
 
 This is the Artism sample application for
 [*One Month Rails*] (http://onemonthrails.com)
