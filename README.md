@@ -1,7 +1,6 @@
-# Artism sample application!
+# This is a sample text
 
 This is the Artism sample application for
 [*One Month Rails*] (http://onemonthrails.com)
 
 by [Rene Cerna](http://ReneCerna.com)
-this is a sample text
