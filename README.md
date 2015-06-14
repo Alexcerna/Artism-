@@ -1,4 +1,4 @@
-#Alex app
+#
 
 This is the Artism sample application for
 [*One Month Rails*] (http://onemonthrails.com)
